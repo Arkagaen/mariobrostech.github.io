@@ -1,0 +1,15 @@
+body {
+	background: #0097a7;
+}
+
+.navbar {
+	font-weight: bold;
+}
+
+.content {
+	padding-top: 80px;
+}
+
+p {
+	font-size: 25px;
+}
